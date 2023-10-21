@@ -6,4 +6,4 @@ A fullstack blog application with Next.Js, MONGODB as a Database and Prisma as a
 <h3> To Run this Application in your System </h3>
 1.Download the project <br>
 2. Run npm install <br>
-3. Run Npm run dev <br>
+3. Run npm run dev <br>
